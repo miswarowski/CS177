@@ -340,4 +340,5 @@
     <None Include="Assets\SampleAssets\Vehicles\Car\Shaders\ReflectiveDiffuseSpecTransp.shader" />
     <None Include="Assets\SampleAssets\Vehicles\RollerBall\RollerBallGuidelines.txt" />
   </ItemGroup>
+    <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
   </Project>
